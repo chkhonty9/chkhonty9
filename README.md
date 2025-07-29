@@ -1,55 +1,83 @@
-# 👋 Hello, I’m Nouhaila Chkhonty
+# 👋 Hello, I'm Nouhaila Chkhonty
 
-## 🧑‍💻 Fullstack Developer & DevOps Engineer  
-**Crafting Scalable Web Applications | Automating Infrastructure | Building Intelligent Systems**
-
----
-
-## 🧭 Who I Am
-
-I'm a versatile software engineer passionate about delivering reliable, high-performance applications — from the first line of code to production deployment.
-
-With a strong foundation in both **fullstack development** and **DevOps practices**, I build systems that are not only functional and user-friendly, but also automated, resilient, and cloud-ready. I’m particularly interested in **intelligent automation**, **agentic AI applications**, and **streamlining development workflows**.
-
-I bring together the mindset of a developer and the discipline of operations to build software that just works — at scale.
+## 🧑‍💻 Senior Fullstack Developer & DevOps Engineer  
+Delivering intelligent applications, automated infrastructure, and resilient cloud-native systems.
 
 ---
 
-## 🚀 What I Do Best
+## 🌟 About Me
 
-- 🔧 **Fullstack Development**: End-to-end feature delivery using modern JavaScript/TypeScript frameworks, REST/GraphQL APIs, and robust backend systems.  
-- ⚙️ **DevOps & Cloud Infrastructure**: CI/CD pipelines, containerization, orchestration, monitoring, and infrastructure as code.  
-- 🧠 **AI-Augmented Systems**: Experience with integrating LLMs and building agentic applications for smart, autonomous workflows.  
-- 🔁 **Workflow Automation**: Automating business processes and development tasks with tools like `n8n`, custom scripts, and cloud-native integrations.  
-- 📈 **Observability & Reliability**: Logging (ELK), monitoring (Prometheus/Grafana), and performance optimization.
+I’m a passionate and results-driven Fullstack Developer and DevOps Engineer with a strong background in designing, building, and deploying modern applications. I have hands-on experience with:
 
----
+- ✅ Microservices architectures
+- ✅ CI/CD automation pipelines
+- ✅ Cloud-native deployments (AWS, Azure)
+- ✅ Agentic AI applications & automation workflows (n8n, OpenAI, LangGraph)
 
-## 🛠️ Tech Stack Snapshot
-
-| Category         | Tools & Frameworks                                                                  |
-|------------------|--------------------------------------------------------------------------------------|
-| **Languages**     | JavaScript, TypeScript, Java, Python, Bash                                          |
-| **Frontend**      | React.js, Vue.js, HTML5, Tailwind CSS, Vite                                         |
-| **Backend**       | Node.js, Express.js, Spring Boot, Flask                                             |
-| **Databases**     | PostgreSQL, MySQL, MongoDB                                                          |
-| **DevOps & CI/CD**| Docker, Kubernetes, GitHub Actions, Jenkins, Nginx                                  |
-| **Cloud & Infra** | AWS (EC2, S3, ECS), Azure, Terraform, Ansible                                       |
-| **Automation**    | n8n, LLM APIs (OpenAI, LangChain), REST/GraphQL orchestration                       |
-| **Monitoring**    | Prometheus, Grafana, ELK Stack                                                      |
+I excel in combining development and operations to deliver robust, scalable, and maintainable systems.
 
 ---
 
-## 📂 Projects & Contributions
+## 🛠️ My Tech Toolbox
 
-Here on GitHub, you'll find a mix of:
+### 🔤 Programming Languages
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 
-- 🧬 Intelligent microservices for scientific and research applications  
-- 🌐 Web platforms deployed on Kubernetes and cloud-native environments  
-- ⚡ Automated pipelines and reusable CI/CD workflows  
-- 🤖 AI-driven tools integrating LLMs and smart task orchestration
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)
 
-> I believe in clean code, clear architecture, and continuous improvement — in both tech and team culture.
+### ⚙️ Backend & Frameworks
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
+
+### 🤖 AI, Automation & Observability
+![n8n](https://img.shields.io/badge/-n8n-F35421?logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?logo=python&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/-Loki-2C3236?logo=loki&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/-ELK-005571?logo=elastic&logoColor=white)
+
+---
+
+## 📂 Projects Highlight
+
+- **🧪 Scientific Lab Management System** – Microservices + Kubernetes + ELK + Prometheus  
+- **📚 SmartLib** – Library Management on AWS (RDS, ECS, ECR)  
+- **🏦 EzyBid** – Auction platform with React Native, NestJS, Kafka, PostgreSQL  
+- **⚖️ Qanoon AI** – AI legal chatbot using LangChain and OpenAI  
+- **🛒 E-commerce** – Fullstack system with Spring Boot + Angular + Kubernetes + Jenkins
 
 ---
 
@@ -64,9 +92,11 @@ Here on GitHub, you'll find a mix of:
 
 ## 📫 Let’s Connect
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 🌍 [Portfolio](https://yourwebsite.dev)
 - 📧 Email: nohaila.chkhonty@gmail.com
 
 ---
 
-> _“Build with clarity. Deploy with confidence. Automate everything you can.”_
+> _“From code to cloud — I design systems that are scalable, intelligent, and automated.”_
 
