@@ -71,29 +71,7 @@ I excel in combining development and operations to deliver robust, scalable, and
 
 ---
 
-## 📂 Projects Highlight
-
-- **🧪 Scientific Lab Management System** – Microservices + Kubernetes + ELK + Prometheus  
-- **📚 SmartLib** – Library Management on AWS (RDS, ECS, ECR)  
-- **🏦 EzyBid** – Auction platform with React Native, NestJS, Kafka, PostgreSQL  
-- **⚖️ Qanoon AI** – AI legal chatbot using LangChain and OpenAI  
-- **🛒 E-commerce** – Fullstack system with Spring Boot + Angular + Kubernetes + Jenkins
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chkhonty9&show_icons=true&theme=default&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chkhonty9&layout=compact&theme=default" height="150" />
-</p>
-
----
-
 ## 📫 Let’s Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 🌍 [Portfolio](https://yourwebsite.dev)
 - 📧 Email: nohaila.chkhonty@gmail.com
 
 ---
