@@ -67,29 +67,6 @@ I work across the stack — from responsive UIs to containerized backends — an
 
 ---
 
-## 📂 Projects Highlight
-
-- 🧪 Scientific Lab System — Microservices + Kubernetes + ELK + Prometheus  
-- 📚 SmartLib — AWS (RDS, ECS, ECR) + Containerized microservices  
-- ⚖️ Qanoon AI — Agentic legal assistant using OpenAI + LangGraph  
-- 🛒 E-commerce — Spring Boot + Angular + Docker + Jenkins  
-- 🏦 EzyBid — Real-time auction platform using NestJS, Kafka, PostgreSQL, Socket.io
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chkhonty9&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chkhonty9&layout=compact&theme=dracula" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=chkhonty9&theme=github-compact" width="90%" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 - 📧 Email: nohaila.chkhonty@gmail.com
